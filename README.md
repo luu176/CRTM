@@ -8,7 +8,7 @@ Read data from Madrid's public transport NFC card (Consorcio Regional de Transpo
 - Outputs data in a human-readable format.  
 
 ### Requirements:  
-- A compatible NFC reader (e.g., PN532, ACR122U).  
+- A compatible NFC reader that supports ISO 7816 standards (currently only tested on ACR122U).  
 - Python with `requests`, `pyscard`, and `tk` libraries installed.
 
 

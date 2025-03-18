@@ -9,6 +9,7 @@ Read data from Madrid's public transport NFC card (Consorcio Regional de Transpo
 
 ### Requirements:  
 - A compatible NFC reader (e.g., PN532, ACR122U).  
-- Python with `smartcard` library installed.  
+- Python with `requests`, `pyscard`, and `tk` libraries installed.
+
 
 ⚠️ **Disclaimer**: This project is for educational and research purposes only. It is not affiliated with CRTM or any official transit authority.

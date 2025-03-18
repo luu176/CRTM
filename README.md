@@ -8,7 +8,7 @@ This repository contains a script to read data from Madrid's public transport ca
 - Outputs data in a human-readable format.  
 
 ### Requirements:  
-- A compatible NFC reader (e.g., PN532, ACR122U, or Proxmark3).  
-- Python with `nfcpy` or `pyscard` (depending on the reader).  
+- A compatible NFC reader (e.g., PN532, ACR122U).  
+- Python with `smartcard` library installed.  
 
 ⚠️ **Disclaimer**: This project is for educational and research purposes only. It is not affiliated with CRTM or any official transit authority.
